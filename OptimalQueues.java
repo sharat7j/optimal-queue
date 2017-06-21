@@ -85,7 +85,7 @@ public class OptimalQueues {
 		
 	}
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		
 		ArrayList<Integer> clientArrivals=new ArrayList<Integer>();
 		clientArrivals.add(10);
@@ -100,7 +100,7 @@ public class OptimalQueues {
 		System.out.println("The min waiting time is Q is="+optQueue.minWaitingTime());
 		
 		
-	}
+	}*/
 	
 	
 }
